@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="2920" viewBox="0 0 2400 2920">
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="10" refY="4" orient="auto"><path d="M0,0 L10,4 L0,8 z" fill="#333"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<path d="M 1100,115.0 L 1100,185.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1100,255.0 L 1100,315.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1100,425.0 L 1100,660.0 L 350,660.0 L 350,895.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="725.0" y="652.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Нет</text>
+<path d="M 1100,425.0 L 1100,505.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1100.0" y="457.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Да</text>
+<path d="M 1100,615.0 L 650,695.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="875.0" y="647.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Некритический</text>
+<path d="M 650,785.0 L 350,895.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1100,615.0 L 1550,680.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1325.0" y="639.5" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Критический</text>
+<path d="M 1550,800.0 L 1250,895.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1400.0" y="839.5" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Нет</text>
+<path d="M 1020.0,940 L 580.0,940" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1550,800.0 L 1850,895.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1700.0" y="839.5" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Да</text>
+<path d="M 1850,985.0 L 1850,1080.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,1160.0 L 1850,1240.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,1320.0 L 1850,1400.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,1480.0 L 1850,1560.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,1560.0 L 1850,1320.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1850.0" y="1432.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Нет</text>
+<path d="M 1850,1660.0 L 1850,1740.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1850.0" y="1692.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Да</text>
+<path d="M 1850,1740.0 L 1850,1320.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1850.0" y="1522.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Нет</text>
+<path d="M 1850,1840.0 L 1850,1910.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1850.0" y="1867.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Да</text>
+<path d="M 1850,2030.0 L 1850,2130.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1850.0" y="2072.0" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Да</text>
+<path d="M 1850,2230.0 L 1850,2335.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,2425.0 L 1850,2515.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,2605.0 L 1850,2695.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<path d="M 1850,2030.0 L 1250,2135.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<text x="1550.0" y="2074.5" font-family="Arial, sans-serif" font-size="20" text-anchor="middle" fill="#111">Нет</text>
+<path d="M 1250,2225.0 L 1250,2460.0 L 1850,2460.0 L 1850,2695.0" stroke="#333" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<rect x="840.0" y="45.0" width="520" height="70" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1100" y="73" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Старт: плановая/событийная</text>
+<text x="1100" y="101" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">проверка лендинга</text>
+<rect x="920.0" y="185.0" width="360" height="70" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1100" y="227" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Обнаружение аномалии</text>
+<polygon points="1100,315.0 1380.0,370 1100,425.0 820.0,370" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1100" y="363" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Инцидент подтвержден</text>
+<text x="1100" y="391" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">повторными проверками?</text>
+<polygon points="1100,505.0 1290.0,560 1100,615.0 910.0,560" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1100" y="553" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Критичность</text>
+<text x="1100" y="581" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">инцидента?</text>
+<rect x="390.0" y="695.0" width="520" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="650" y="733" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Уведомление и постановка задачи</text>
+<text x="650" y="761" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">без паузы кампаний</text>
+<polygon points="1550,680.0 1830.0,740 1550,800.0 1270.0,740" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1550" y="733" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Непрерывный даунтайм &gt;= 3–5 минут</text>
+<text x="1550" y="761" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">(гистерезис)?</text>
+<rect x="1020.0" y="895.0" width="460" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1250" y="933" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Усиленный мониторинг и</text>
+<text x="1250" y="961" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">ожидание подтверждения</text>
+<rect x="1600.0" y="895.0" width="500" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="933" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Автопауза кампаний через</text>
+<text x="1850" y="961" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Yandex Direct / VK Ads API</text>
+<rect x="1640.0" y="1080.0" width="420" height="80" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="1113" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Отправка алертов в</text>
+<text x="1850" y="1141" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Slack/Telegram и on-call</text>
+<rect x="1640.0" y="1240.0" width="420" height="80" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="1287" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Инженерное устранение причины</text>
+<rect x="1660.0" y="1400.0" width="380" height="80" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="1447" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Verification-тест после фикса</text>
+<polygon points="1850,1560.0 2030.0,1610 1850,1660.0 1670.0,1610" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1850" y="1617" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Проверка успешна?</text>
+<polygon points="1850,1740.0 2060.0,1790 1850,1840.0 1640.0,1790" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1850" y="1797" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Стабильность подтверждена?</text>
+<polygon points="1850,1910.0 2120.0,1970 1850,2030.0 1580.0,1970" fill="#fff7e6" stroke="#8a5a00" stroke-width="2"/>
+<text x="1850" y="1963" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Превышен порог флаппинга</text>
+<text x="1850" y="1991" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">N циклов за X часов?</text>
+<rect x="1570.0" y="2130.0" width="560" height="100" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="2173" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Circuit Breaker: авто-резюм отключен,</text>
+<text x="1850" y="2201" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">pause-state зафиксирован</text>
+<rect x="1620.0" y="2335.0" width="460" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="2373" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Эскалация в ручное ведение</text>
+<text x="1850" y="2401" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">on-call SRE</text>
+<rect x="1620.0" y="2515.0" width="460" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="2553" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Ручное решение о</text>
+<text x="1850" y="2581" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">возобновлении кампаний</text>
+<rect x="1630.0" y="2695.0" width="440" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1850" y="2747" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Закрытие инцидента и SLA-отчет</text>
+<rect x="1040.0" y="2135.0" width="420" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="1250" y="2187" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Автовозобновление кампаний</text>
+<rect x="120.0" y="895.0" width="460" height="90" rx="12" ry="12" fill="#f7f9fc" stroke="#1f3b5b" stroke-width="2"/>
+<text x="350" y="933" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">Логирование, продолжение</text>
+<text x="350" y="961" font-family="Arial, sans-serif" font-size="22" text-anchor="middle" fill="#111">мониторинга</text>
+</svg>
